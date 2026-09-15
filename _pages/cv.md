@@ -29,32 +29,11 @@ September 2025 – December 2025
 Research Experience
 ======
 
-### Incremental Kernel Ridge Regression for Online Simulation Optimization
-
-**School of Management, Fudan University** · March 2026 – Present
-**Advisor:** Prof. Jianqiang Hu
-
-- Developed an RKHS-based incremental KRR method for simulation optimization, reducing computational complexity from $O(n^3)$ to $O(n^2k)$.
-- Built an online black-box optimization framework that updates the surrogate model sequentially as new simulation observations arrive.
-- Proposed a “hard-move, soft-update” strategy for time-varying simulation optimization to stabilize decisions under slowly drifting objectives and high simulation noise.
-
-### Multiscale Bias Cancellation for Accurate Manifold Estimation
-
-**Shanghai Institute for Mathematics and Interdisciplinary Sciences** · June 2026 – Present
-**Advisors:** Prof. Zhigang Yao and Prof. Bingjie Li
-
-- Developed a multiscale extrapolation theory that cancels leading geometric bias and improves approximation error from $O(\sigma^2)$ to $O(\sigma^4)$ under regularity conditions.
-- Derived asymptotic expansions for representative manifold fitting estimators and constructed higher-order estimators, including an extension to the Yao–Yau estimator.
-- Validated the methods through simulations and real-data experiments across multiple manifolds.
 
 Project
 ======
 
-### Graph-Grounded Bayesian Inference for Uncertainty-Aware LLM Evaluation
 
-- Developed a Bayesian inference framework that models latent response quality and judge variability to obtain calibrated estimates.
-- Built an evaluation pipeline for repeated multi-judge scoring, uncertainty estimation, adaptive stopping, and model-level aggregation.
-- Evaluated the pipeline with controlled simulations, repeated scoring of real LLM responses, and human-preference benchmarks.
 
 Skills
 ======
