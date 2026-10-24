@@ -186,7 +186,6 @@ exclude:
   - _pages/publications.html
   - _pages/talkmap.html
   - _pages/talks.html
-  - _pages/teaching.html
   - _pages/year-archive.html
   - "*.sublime-project"
   - "*.sublime-workspace"

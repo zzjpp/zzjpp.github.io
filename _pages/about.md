@@ -17,17 +17,6 @@ Selected Project
 ======
 
 
-Teaching
-======
-
-### Teaching Assistant, Mathematical Analysis
-
-**Fudan University** · September 2023 – June 2025
-
-- Led recitation sessions and office hours, prepared solutions, and graded assignments.
-- Assisted with exam preparation and coordination for midterm and final examinations.
-
-
 Technical Skills
 ======
 
