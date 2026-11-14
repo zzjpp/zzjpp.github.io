@@ -183,7 +183,6 @@ exclude:
   - _pages/markdown.md
   - _pages/page-archive.html
   - _pages/portfolio.html
-  - _pages/publications.html
   - _pages/talkmap.html
   - _pages/talks.html
   - _pages/year-archive.html

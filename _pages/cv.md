@@ -30,6 +30,12 @@ Research Experience
 ======
 
 
+Preprints
+======
+
+**Zhijun Zhu**, Haoyu Yang, Ruoyu Xiong, Bingjie Li, and Zhigang Yao. [Beyond Curvature Bias: Higher-Order Manifold Fitting via Multiscale Cancellation](https://arxiv.org/abs/2611.16235). *arXiv preprint arXiv:2611.16235*, 2026. [PDF](https://arxiv.org/pdf/2611.16235).
+
+
 Project
 ======
 

@@ -2,7 +2,7 @@
 
 Personal academic website built with the Academic Pages Jekyll template.
 
-The site presents current research, projects, education, teaching experience, technical skills, and honors. Personal phone details and the original CV PDF are intentionally not included in the public repository.
+The site presents current research, publications and preprints, projects, education, teaching experience, technical skills, and honors. Personal phone details and the original CV PDF are intentionally not included in the public repository.
 
 ## Website
 

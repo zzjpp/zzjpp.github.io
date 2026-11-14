@@ -5,32 +5,43 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Preprints</h2>
 
-{% include base_path %}
+<article id="beyond-curvature-bias" class="archive__item">
+  <h3 class="archive__item-title">
+    <a href="https://arxiv.org/abs/2611.16235">Beyond Curvature Bias: Higher-Order Manifold Fitting via Multiscale Cancellation</a>
+  </h3>
+  <p><strong>Zhijun Zhu</strong>, Haoyu Yang, Ruoyu Xiong, Bingjie Li, and Zhigang Yao</p>
+  <p><em>arXiv preprint · November 12, 2026</em></p>
+  <p>
+    <a href="https://arxiv.org/abs/2611.16235">arXiv:2611.16235</a> ·
+    <a href="https://arxiv.org/pdf/2611.16235">PDF</a>
+  </p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <h4>Overview</h4>
+  <p>
+    Local smoothing reduces noise but also displaces a fitted manifold because of curvature.
+    We develop geometric bias cancellation (GBC), a framework that combines fits at multiple
+    scales to remove this systematic error. A key step is matching points across fitted
+    manifolds using estimated normal directions, so that bias can be canceled without
+    knowing the true geometry.
+  </p>
 
-
-
+  <h4>Main results</h4>
+  <ul>
+    <li>
+      Under the stated regularity and Gaussian-noise assumptions, GBC achieves fourth-order
+      population Hausdorff accuracy while preserving a smooth embedded manifold
+      diffeomorphic to the underlying manifold.
+    </li>
+    <li>
+      We establish noise-dependent bias expansions and finite-sample recovery guarantees
+      for successive tangent-space projection and Gaussian density ridges.
+    </li>
+    <li>
+      For a local contraction estimator, we identify why scalar cancellation can fail
+      and develop a directional correction with fourth-order population accuracy and
+      a uniform positive-reach guarantee.
+    </li>
+  </ul>
+</article>

@@ -12,6 +12,16 @@ I am an undergraduate student in the Honors Program in Mathematics and Applied M
 Current Research
 ======
 
+### [Beyond Curvature Bias: Higher-Order Manifold Fitting via Multiscale Cancellation](https://arxiv.org/abs/2611.16235)
+
+**Zhijun Zhu**, Haoyu Yang, Ruoyu Xiong, Bingjie Li, and Zhigang Yao
+
+*Preprint · November 2026*
+
+We study how to recover smooth manifolds from noisy observations. Our geometric bias cancellation (GBC) framework combines estimates across scales to remove leading geometric bias. Under the stated assumptions, it improves population Hausdorff accuracy from second to fourth order while preserving a smooth manifold diffeomorphic to the underlying manifold.
+
+[arXiv](https://arxiv.org/abs/2611.16235) · [PDF](https://arxiv.org/pdf/2611.16235) · [Research overview]({{ '/publications/#beyond-curvature-bias' | relative_url }})
+
 
 Selected Project
 ======
