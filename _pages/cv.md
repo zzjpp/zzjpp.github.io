@@ -15,9 +15,9 @@ Education
 **B.S. in Mathematics and Applied Mathematics, Honors Program**
 September 2022 – June 2027 (expected)
 
-- GPA: 3.75/4.00; Major GPA: 3.92/4.00
+- GPA: 3.75/4.00
 - Transferred from the Economics Honors Program to the School of Mathematical Sciences in May 2024.
-- Relevant coursework: Functional Analysis (H), Algebraic Topology (H), Differential Forms in Algebraic Topology (H), Several Complex Variables (H), Numerical Analysis and Optimization (H), Stochastic Analysis, Partial Differential Equations, Calculus on Manifolds, and Abstract Algebra.
+- Relevant coursework: Probability Theory and Mathematical Statistics, Functional Analysis (H), Algebraic Topology (H), Differential Forms in Algebraic Topology (H), Several Complex Variables (H), Numerical Linear Analysis and Optimization (H), Partial Differential Equations, Abstract Algebra, and Calculus on Manifolds.
 
 ### The Chinese University of Hong Kong, Hong Kong SAR
 
@@ -26,28 +26,6 @@ September 2025 – December 2025
 
 - Relevant coursework: Advanced Quantum Mechanics and Stochastic Processes.
 
-Research Experience
-======
-
-
-Preprints
-======
-
-**Zhijun Zhu**, Haoyu Yang, Ruoyu Xiong, Bingjie Li, and Zhigang Yao. [Beyond Curvature Bias: Higher-Order Manifold Fitting via Multiscale Cancellation](https://arxiv.org/abs/2611.16235). *arXiv preprint arXiv:2611.16235*, 2026. [PDF](https://arxiv.org/pdf/2611.16235).
-
-
-Project
-======
-
-
-
-Skills
-======
-
-- **Programming:** Python, C++, PyTorch
-- **Tools:** Git, BLAS/LAPACK, LaTeX
-- **Languages:** Chinese (native), English (fluent), Cantonese (elementary)
-
 Awards & Honors
 ======
 
@@ -55,15 +33,17 @@ Awards & Honors
 - Fudan University Scholarship for Basic Disciplines, 2024–2025
 - Fudan University Scholarship, Third Class, 2022–2024
 
-Teaching Experience
+Technical Skills
 ======
 
-### Teaching Assistant, Mathematical Analysis
+- **Programming languages:** Python, C++
+- **Frameworks & tools:** PyTorch, NumPy, Git, LaTeX, Figma
 
-**Fudan University** · September 2023 – June 2025
+Languages
+======
 
-- Led recitation sessions and office hours, prepared solutions, and graded assignments.
-- Assisted with exam preparation and coordination for midterm and final examinations.
+- Chinese (native), English (fluent), Cantonese (elementary)
+- TOEFL: 5.0/6.0
 
 Selected Academic Activities
 ======

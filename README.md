@@ -2,7 +2,15 @@
 
 Personal academic website built with the Academic Pages Jekyll template.
 
-The site presents current research, publications and preprints, projects, education, teaching experience, technical skills, and honors. Personal phone details and the original CV PDF are intentionally not included in the public repository.
+The site's content is organized by page so that each detailed entry has one home:
+
+- **About:** a short introduction and academic contact information.
+- **Research:** research experience and selected projects.
+- **Publications:** paper metadata, links, and research summaries.
+- **CV:** education, awards, technical skills, languages, and academic activities.
+- **Teaching:** teaching appointments.
+
+Use links between pages instead of repeating paper entries, project descriptions, or teaching appointments. Personal phone details and the source CV PDF are intentionally not published.
 
 ## Website
 
